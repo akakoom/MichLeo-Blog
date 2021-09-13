@@ -1,6 +1,5 @@
 ---
 title: "picture test"
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
