@@ -62,15 +62,16 @@ author:
   avatar : "/assets/images/MichLeo_in_nano.jpg"
   bio    : "Try to accumulate some clutter."
   links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-disocrd"
+      url: "https://discord.com/users/116749368224251908"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/akakoom1987"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/akakoom"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
@@ -79,13 +80,11 @@ footer:
       url: "https://discord.com/users/116749368224251908"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/akakoom1987"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/akakoom"
+
 
 defaults:
   # _posts
