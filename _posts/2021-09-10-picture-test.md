@@ -25,16 +25,16 @@ The nano-polymer bionic body is essentially a nano-mechanical creature, usually 
 The usual clothes are basically made of nano-machines, and when using nano-machines, they wear hoods to make the circuits glow, creating the impression that the use of nano-machines is controlled from the outside.
 {: .text-center}
 
-The gumdrops of unknown origin and undetermined material and age appear in the body when it becomes a nano creature, and when it is taken out, it pretends to be made of polymerized nano particles and can eject many chains of nano machinery from it.
+The gumdrops of unknown origin and undetermined material and age appear in the body when I become a nano creature, and when I take them out, they pretend to be made of polymerized nano particles, from which many chain-like nano machines can be ejected.
 {: .text-center}
 ![02](https://i.imgur.com/e5d0MXA.png){: .align-center}
 
 ### Semi-melting
-Partial disguise, the whole body of the nano-mechanical decompression into a chain structure, forming a tar or rubber texture, the surface can be completely sealed, completely through the sensor to identify things, if necessary, can be partially condensed out of the flesh.
+Partial removal of the disguise. The nano-mechanical decompression of the whole body into a chain structure, forming a tar or rubber texture, the surface can be completely sealed, completely through the sensor to identify the object, if necessary, can be partially condensed out of the flesh.
 {: .text-center}
 ![03](https://i.imgur.com/es5ErVA.png){: .align-center}
 
 ### Nanomachine
-Compared to the lifting of the compressed cross-body form, the nano-mechanical more condensed into a solid muscle bundle and mechanical structure to reduce the efficiency of the interaction of external materials to improve the overall mobility, the biggest role should be to make the picture of the battle more like a science fiction film, rather than a pile of black material horror film that will decompose people.
+Compared to the decompression of the goo form, the nano-mechanical more condensed into a solid muscle bundle and mechanical structure to reduce the efficiency of the interaction of external materials to improve the overall mobility, the biggest role should be to make the picture of the battle more like a science fiction film, rather than a pile of black goo horror film that will decompose people.
 {: .text-center}
 ![04](https://i.imgur.com/WH4t4zW.png){: .align-center}
