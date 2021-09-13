@@ -10,8 +10,11 @@ tags:
 
 ## Fursona Here
 
+After making up my mind to have a beast set up, it took more than two years to come and go.
+After a number of fine-tuning, the dumplings for me to finalize the draft.
+Thank him for my brain cells burned a lot.
 ![Artist：Racconwolf](https://twitter.com/racoonwolf)
-{: .btn .btn--info .text-right}
+{: .text-right}
 
 ### 肉體模擬
 The nano-polymer bionic body is essentially a nano-mechanical creature, 
