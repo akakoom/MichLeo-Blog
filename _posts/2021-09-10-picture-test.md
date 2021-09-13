@@ -1,5 +1,5 @@
 ---
-title: "picture test"
+title: "Fursona 2021"
 categories:
   - Blog
 tags:
