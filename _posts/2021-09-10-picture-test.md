@@ -10,8 +10,8 @@ tags:
 
 ## Fursona Here
 
-[Artist：Racconwolf](https://twitter.com/racoonwolf)
-{: .btn .btn--primary .text-center}
+![Artist：Racconwolf](https://twitter.com/racoonwolf)
+{: .btn .btn--info}{ .text-center}
 
 ### 肉體模擬
 The nano-polymer bionic body is essentially a nano-mechanical creature, 
