@@ -13,6 +13,7 @@ tags:
 After making up my mind to have a beast set up, it took more than two years to come and go.
 After a number of fine-tuning, the dumplings for me to finalize the draft.
 Thank him for my brain cells burned a lot.
+{: .text-center}
 ![Artist：Racconwolf](https://twitter.com/racoonwolf)
 {: .text-right}
 
