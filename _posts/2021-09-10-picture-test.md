@@ -10,9 +10,9 @@ tags:
 
 ## Fursona Here
 
-After deciding to design my own Fursona, it took about two years to come and go.\n
-After a lot of fine-tuning, Racconwolf finalized it for me.\n
-Thank him for burning a lot of brain cells for me.\n
+After deciding to design my own Fursona, it took about two years to come and go.
+After a lot of fine-tuning, Racconwolf finalized it for me.
+Thank him for burning a lot of brain cells for me.
 {: .text-center}
 Artist：[Racconwolf](https://twitter.com/racoonwolf){: .btn .btn--info}
 {: .text-right}
