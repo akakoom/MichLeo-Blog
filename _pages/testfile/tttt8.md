@@ -1,4 +1,14 @@
-## [Part 8 Fina…… Delta - 墮落與合一
+---
+title: "[Part 8 Fina…… Delta - 墮落與合一"
+categories:
+  - 小說
+tags:
+  - 小說
+  - 翻譯
+  - delta
+---
+
+
 創造者：[deltacatalyzer](https://twitter.com/deltacatalyzer)\
 作者：[Diretooth](https://www.furaffinity.net/user/diretooth/)\
 翻譯：MichLeo\
@@ -251,3 +261,4 @@
 　　我們收到一個外骨骼動力服的訂單。我們到了一個男人的家，在他面前成形。
 
 　　我們準備好重新開始這個整個過程……
+
