@@ -1,9 +1,10 @@
 ---
 title: "翻譯小說 Matrix №Δ by Diretooth"
 categories:
-  - Blog
+  - 小說
 tags:
-  - novel
+  - 小說
+  - 翻譯
   - delta
 ---
 ## 目錄
