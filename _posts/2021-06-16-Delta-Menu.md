@@ -14,7 +14,7 @@ tags:
 
 ---
 
- - [[Part 1] 遇見 Delta]({% post_url blog-test3/2021-06-16-Delta-part-1 %})
+ - [[Part 1] 遇見 Delta]({{ site.baseurl }{% post_url /2021-06-16-Delta-part-1 %})({{ site.baseurl }}{% post_url /Test/2021-09-14-test-post %})
  - [[Part 2] Delta - 個人化](2_Delta_Customization.md)
  - [[Part 3] Delta - 增長](3_Delta_Accretion.md)
  - [[Part 4] Delta - 斷開連線](4_Delta_Disconnect.md)
