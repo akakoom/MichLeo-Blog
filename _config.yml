@@ -65,7 +65,7 @@ author:
   avatar : "/assets/images/MichLeo_in_nano.jpg"
   bio    : "堆積一些雜物"
   links:
-    - label: "首頁"
+    - label: "Home"
       icon: "fab fa-fw fa-home"
       url: "https://blog.akakoom.com/"
     - label: "Discord"
