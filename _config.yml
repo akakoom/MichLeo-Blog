@@ -66,7 +66,7 @@ author:
   bio    : "堆積一些雜物"
   links:
     - label: "Home"
-      icon: "fab fa-fw fa-home"
+      icon: "fab fa-fw fa-paws"
       url: "https://blog.akakoom.com/"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
@@ -84,9 +84,6 @@ author:
 
 footer:
   links:
-    - label: "Home"
-      icon: "fab fa-fw fa-paw"
-      url: "https://blog.akakoom.com/"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.com/users/116749368224251908"
