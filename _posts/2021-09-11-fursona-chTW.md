@@ -29,7 +29,7 @@ Artist：[Racconwolf](https://twitter.com/racoonwolf){: .btn .btn--info}
 奈米聚合仿生體，本質上為奈米機械生物，平時藉由壓縮奈米械模擬而成的軀體作為偽裝，刻意留下傷疤除了緬懷過去的肉身，也是偽裝成生物體的一部份。
 {: .text-center}
 
-{% include gallery %}
+{% include gallery id="gallery" %}
 ![01](https://i.imgur.com/NccXBns.jpg){: .align-center}
 
 ### 日 常 偽 裝
