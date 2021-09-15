@@ -10,8 +10,10 @@ main:
 
 
 sidebar-Delta-menu:
-  - title: "返回首頁"
-    url: /novel/Delta-Menu/#目-錄
+  - title: ""
+    children:
+      - title: "返回首頁"
+        url: /
   - title: "Matrix №Δ"
     children:
       - title: "返回目錄"
