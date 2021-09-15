@@ -29,14 +29,14 @@ toc_sticky: true
 ---
 
 ## 目 錄
- - [[Part 1] 遇見 Delta]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-1 %})
- - [[Part 2] Delta - 個人化]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-2 %})
- - [[Part 3] Delta - 增長]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-3 %})
- - [[Part 4] Delta - 斷開連線]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-4 %})
- - [[Part 5] Delta - 落差]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-5 %})
- - [[Part 6] Delta - 合成]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-6 %})
- - [[Part 7] Delta - 實驗]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-7 %})
- - [\[Part 8 Fina…… Delta - 墮落與合一]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-8 %})
+#### - [[Part 1] 遇見 Delta]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-1 %})
+#### - [[Part 2] Delta - 個人化]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-2 %})
+#### - [[Part 3] Delta - 增長]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-3 %})
+#### - [[Part 4] Delta - 斷開連線]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-4 %})
+#### - [[Part 5] Delta - 落差]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-5 %})
+#### - [[Part 6] Delta - 合成]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-6 %})
+#### - [[Part 7] Delta - 實驗]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-7 %})
+#### - [\[Part 8 Fina…… Delta - 墮落與合一]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-8 %})
 
  --- 
 
