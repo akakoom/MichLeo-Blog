@@ -7,3 +7,10 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+sidebar-Delta-menu:
+  - title: "目錄"
+    url: /_posts/Delta/2021-06-17-Delta-Menu
+  - title: "[Part 1] 遇見 Delta"
+    url: /_posts/Delta/2021-06-16-Delta-part-1
+    
