@@ -8,6 +8,10 @@ main:
   - title: "About"
     url: /about/
 
+sidebar-home:
+  - title: "返回首頁"
+    url: /
+
 sidebar-Delta-menu:
   - title: "目錄"
     url: /novel/Delta-Menu/#目-錄
