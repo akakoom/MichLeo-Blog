@@ -10,10 +10,6 @@ main:
 
 
 sidebar-Delta-menu:
-  - title: "MichLeo"
-    children:
-      - title: "返回首頁"
-        url: /
   - title: "Matrix №Δ"
     children:
       - title: "返回目錄"
