@@ -6,6 +6,8 @@ tags:
   - 小說
   - 翻譯
   - delta
+toc: true
+toc_sticky: true
 ---
 
 ## 前 言
