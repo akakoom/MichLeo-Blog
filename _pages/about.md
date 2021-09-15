@@ -12,4 +12,4 @@ O型
 在人生的道路上迷路的黑豹  
 
 [獸設](https://blog.akakoom.com/blog/fursona-chTW/){: .btn .btn--info}
-{: .text-left}
+{: .text-right}
