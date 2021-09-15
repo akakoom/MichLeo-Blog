@@ -9,8 +9,6 @@ tags:
 gallery:
   - url: /assets/images/2021-Michleo-ref-01.jpg
     image_path: /assets/images/2021-Michleo-ref-01.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
 gallery2:
     image_path: /assets/images/2021-Michleo-ref-02.jpg
 gallery3:
