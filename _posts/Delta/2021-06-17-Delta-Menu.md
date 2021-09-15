@@ -38,6 +38,8 @@ toc_sticky: true
  - [[Part 7] Delta - 實驗]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-7 %})
  - [\[Part 8 Fina…… Delta - 墮落與合一]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-8 %})
 
+[testlink](/_posts/Delta/2021-06-16-Delta-part-1.md)
+
  --- 
 
 此作品在經過作者[Diretooth](https://www.furaffinity.net/user/diretooth/)以及角色的創作者[deltacatalyzer](https://twitter.com/deltacatalyzer)同意之後翻譯，發佈。
