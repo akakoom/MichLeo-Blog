@@ -6,8 +6,12 @@ tags:
   - 小說
   - 翻譯
   - delta
-toc: true
-toc_sticky: true
+author_profile: false
+sidebar:
+  - title: "Matrix №Δ 小說目錄"
+    image: /assets/images/Delta-Icon.jpg
+    text: ""
+    nav: "sidebar-Delta-menu"
 ---
 
 ## 前 言
@@ -26,19 +30,7 @@ toc_sticky: true
  - 故事內容包含洗腦、催眠、身體改造、身分轉變、思想變化，以及自慰、性交等成人內容，\
 若無法接受請不要閱讀，在閱讀期間若感到不適請停止觀看。
 
----
-
-## 目 錄
- - [[Part 1] 遇見 Delta]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-1 %})
- - [[Part 2] Delta - 個人化]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-2 %})
- - [[Part 3] Delta - 增長]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-3 %})
- - [[Part 4] Delta - 斷開連線]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-4 %})
- - [[Part 5] Delta - 落差]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-5 %})
- - [[Part 6] Delta - 合成]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-6 %})
- - [[Part 7] Delta - 實驗]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-7 %})
- - [\[Part 8 Fina…… Delta - 墮落與合一]({{ site.baseurl }}{% post_url /Delta/2021-06-16-Delta-part-8 %})
-
- --- 
+--- 
 
 此作品在經過作者[Diretooth](https://www.furaffinity.net/user/diretooth/)以及角色的創作者[deltacatalyzer](https://twitter.com/deltacatalyzer)同意之後翻譯，發佈。
 ![圖片](https://user-images.githubusercontent.com/71741159/122041394-7d795d80-ce0b-11eb-8134-a8dfb1be0353.png)
