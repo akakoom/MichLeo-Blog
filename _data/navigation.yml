@@ -10,7 +10,21 @@ main:
 
 sidebar-Delta-menu:
   - title: "目錄"
-    url: /_posts/Delta/2021-06-17-Delta-Menu
+    url: /novel/Delta-Menu/#目-錄
   - title: "[Part 1] 遇見 Delta"
-    url: /_posts/Delta/2021-06-16-Delta-part-1
+    url: /novel/Delta-part-1/
+  - title: "[Part 2] Delta - 個人化"
+    url: /novel/Delta-part-2/
+  - title: "[Part 3] Delta - 增長"
+    url: /novel/Delta-part-3/
+  - title: "[Part 4] Delta - 斷開連線"
+    url: /novel/Delta-part-4/
+  - title: "[Part 5] Delta - 落差"
+    url: /novel/Delta-part-5/
+  - title: "[Part 6] Delta - 合成"
+    url: /novel/Delta-part-6/
+  - title: "[Part 7] Delta - 實驗"
+    url: /novel/Delta-part-7/
+  - title: "[Part 8 Fina…… Delta - 墮落與合一"
+    url: /novel/Delta-part-8/
     
