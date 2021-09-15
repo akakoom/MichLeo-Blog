@@ -10,7 +10,7 @@ main:
 
 
 sidebar-Delta-menu:
-  - title: ""
+  - title: "MichLeo"
     children:
       - title: "返回首頁"
         url: /
