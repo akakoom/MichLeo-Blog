@@ -12,7 +12,7 @@ main:
 sidebar-Delta-menu:
   - title: "快速導覽"
     children:
-      - title: "返回目錄"
+      - title: "小說目錄"
         url: /novel/Delta-Menu/#目-錄
       - title: "[Part 1] 遇見 Delta"
         url: /novel/Delta-part-1/
