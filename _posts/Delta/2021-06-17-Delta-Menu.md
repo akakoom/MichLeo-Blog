@@ -9,7 +9,7 @@ tags:
 author_profile: false
 sidebar:
   - title: "Matrix №Δ 小說目錄"
-    image: /assets/images/Delta-Icon.jpg{: .align-left}{:height="100%" width="50%"}
+    image: /assets/images/Delta-Icon.jpg
     text: ""
     nav: "sidebar-Delta-menu"
 ---
