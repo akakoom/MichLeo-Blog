@@ -6,6 +6,15 @@ tags:
   - 委託
   - 獸設
   - racconwolf
+gallery:
+    image_path: /assets/images/2021-Michleo-ref-01.jpg
+gallery2:
+    image_path: /assets/images/2021-Michleo-ref-02.jpg
+gallery3:
+    image_path: /assets/images/2021-Michleo-ref-03.jpg
+gallery4:
+    image_path: /assets/images/2021-Michleo-ref-04.jpg
+
 ---
 
 ## 獸 設
@@ -19,7 +28,8 @@ Artist：[Racconwolf](https://twitter.com/racoonwolf){: .btn .btn--info}
 ### 肉 體 模 擬
 奈米聚合仿生體，本質上為奈米機械生物，平時藉由壓縮奈米械模擬而成的軀體作為偽裝，刻意留下傷疤除了緬懷過去的肉身，也是偽裝成生物體的一部份。
 {: .text-center}
-    
+
+{% include gallery %}
 ![01](https://i.imgur.com/NccXBns.jpg){: .align-center}
 
 ### 日 常 偽 裝
