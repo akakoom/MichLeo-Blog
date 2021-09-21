@@ -20,7 +20,7 @@ gallery:
 剛好非常適合今天發布呢～\
 八年來的中秋真滿月\
 剛好是TFTusday\
-感謝DRNX的努力～黑豹鯊鯊出現啦～！\
+感謝DRNX的努力～黑豹鯊鯊出現啦～！
 
 Artist：[DRNX](https://www.plurk.com/DRNX){: .btn .btn--info}
 {: .text-left}
