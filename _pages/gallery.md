@@ -63,8 +63,56 @@ gallery-Rwolf:
     image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
   - url: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
     image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
-
-
+gallery-WFA:
+  - url: /assets/images/commissions/WFA/2018_michleo_modelsheet.jpg
+    image_path: /assets/images/commissions/WFA/2018_michleo_modelsheet.jpg
+gallery-X-monic:
+  - url: /assets/images/commissions/X-monic/akakoom_20191103131735.png
+    image_path: /assets/images/commissions/X-monic/akakoom_20191103131735.png
+gallery-benben_5057:
+  - url: /assets/images/commissions/benben_5057/萬聖節委託_坧稫β(小).jpg
+    image_path: /assets/images/commissions/benben_5057/萬聖節委託_坧稫β(小).jpg
+gallery-bruce892741:
+  - url: /assets/images/commissions/bruce892741/growth-with-Vincent-wip.jpeg
+    image_path: /assets/images/commissions/bruce892741/growth-with-Vincent-wip.jpeg
+  - url: /assets/images/commissions/bruce892741/growth-with-Vincent.jpeg
+    image_path: /assets/images/commissions/bruce892741/growth-with-Vincent.jpeg
+gallery-gumi86128:
+  - url: /assets/images/commissions/gumi86128/TF_akakoom.jpg
+    image_path: /assets/images/commissions/gumi86128/TF_akakoom.jpg
+gallery-joanne_0512:
+  - url: /assets/images/commissions/joanne_0512/VI3XZVH.png
+    image_path: /assets/images/commissions/joanne_0512/VI3XZVH.png
+gallery-otader:
+  - url: /assets/images/commissions/otader/2019_11_28.png
+    image_path: /assets/images/commissions/otader/2019_11_28.png
+  - url: /assets/images/commissions/otader/2019_11_28_2.png
+    image_path: /assets/images/commissions/otader/2019_11_28_2.png
+  - url: /assets/images/commissions/otader/583743.png
+    image_path: /assets/images/commissions/otader/583743.png
+  - url: /assets/images/commissions/otader/LINE_P20191006_105246431.jpg
+    image_path: /assets/images/commissions/otader/LINE_P20191006_105246431.jpg
+  - url: /assets/images/commissions/otader/MichLeo-ref.png
+    image_path: /assets/images/commissions/otader/MichLeo-ref.png
+  - url: /assets/images/commissions/otader/messageImage_1568726824528.jpg
+    image_path: /assets/images/commissions/otader/messageImage_1568726824528.jpg 
+  - url: /assets/images/commissions/otader/messageImage_1572322676809.jpg
+    image_path: /assets/images/commissions/otader/messageImage_1572322676809.jpg
+  - url: /assets/images/commissions/otader/messageImage_1572348590304.jpg
+    image_path: /assets/images/commissions/otader/messageImage_1572348590304.jpg
+  - url: /assets/images/commissions/otader/unknown.png
+    image_path: /assets/images/commissions/otader/unknown.png
+gallery-petplayer976:
+  - url: /assets/images/commissions/petplayer976/hat_akakoom.png
+    image_path: /assets/images/commissions/petplayer976/hat_akakoom.png
+  - url: /assets/images/commissions/petplayer976/headshotTF_akakoom.png
+    image_path: /assets/images/commissions/petplayer976/headshotTF_akakoom.png
+gallery-supaucat:
+  - url: /assets/images/commissions/supaucat/13280509329913.jpg
+    image_path: /assets/images/commissions/supaucat/13280509329913.jpg
+gallery-yrac850409:
+  - url: /assets/images/commissions/yrac850409/cyber_akakoom.jpg
+    image_path: /assets/images/commissions/yrac850409/cyber_akakoom.jpg
 
 ---
 
