@@ -15,11 +15,11 @@ gallery1:
   - url: /assets/images/commissions/Ageaus/mask_akakoom-3.jpg
     image_path: /assets/images/commissions/Ageaus/mask_akakoom-3.jpg
 gallery2:
-  - url: /assets/images/commissions/Ageaus/ArkAlpha_akakoom.jpg
-    image_path: /assets/images/commissions/Ageaus/ArkAlpha_akakoom.jpg
+  - url: /assets/images/commissions/ArkAlpha/ArkAlpha_akakoom.png
+    image_path: /assets/images/commissions/ArkAlpha/ArkAlpha_akakoom.png
 gallery3:
-  - url: /assets/images/commissions/Ageaus/BlackTiger_akakoom.png
-    image_path: /assets/images/commissions/Ageaus/BlackTiger_akakoom.png
+  - url: /assets/images/commissions/BlackTiger/BlackTiger_akakoom.png
+    image_path: /assets/images/commissions/BlackTiger/BlackTiger_akakoom.png
 ---
 
 Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
