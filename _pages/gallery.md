@@ -24,7 +24,7 @@ gallery-BlackTiger:
 
 Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery-Ageaus" %}
+{% include gallery id="gallery-ArkAlpha" %}
 
 Artist：[ArkAlpha](https://twitter.com/arkalpha){: .btn .btn--info}
 {: .text-center}
