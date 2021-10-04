@@ -154,6 +154,46 @@ Artist：[Rwolf](https://www.furaffinity.net/user/rwolf){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Rwolf" layout="half" %}
 
+Artist：[沃](https://twitter.com/VorusuArts2){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-Vorusu" layout="half" %}
 
+Artist：[WFA](https://www.furaffinity.net/user/wfa){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-WFA" layout="half" %}
 
+Artist：[X-monic](https://twitter.com/MonaDever){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-X-monic" layout="half" %}
 
+Artist：[班尼迪克蛋](https://twitter.com/Banksy5057){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-benben_5057" layout="half" %}
+
+Artist：[季之宇_BY](https://twitter.com/bruce892741){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-bruce892741" layout="half" %}
+
+Artist：[亞灰](https://twitter.com/asiahao520){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-gumi86128" layout="half" %}
+
+Artist：[伽勒爾牛牛](https://twitter.com/roro860512){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-joanne_0512" layout="half" %}
+
+Artist：[歐塔德](https://www.furaffinity.net/user/feitade1001/){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-otader" %}
+
+Artist：[Anfield](https://twitter.com/petplayer976){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-petplayer976" layout="half" %}
+
+Artist：[舒跑貓](https://www.plurk.com/supaucat){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-supaucat" layout="half" %}
+
+Artist：[Yrac 鴉](https://www.plurk.com/yrac850409){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-yrac850409" layout="half" %}
