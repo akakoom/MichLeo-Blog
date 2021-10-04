@@ -86,7 +86,7 @@ Artist：[羯角](https://www.plurk.com/CornuGoat){: .btn .btn--info}
 
 Artist：[棒凱](https://www.plurk.com/OKAIO){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery-OKAIO" layout="half" %}
+{% include gallery id="gallery-OKAIO" %}
 
 Artist：[粽子](https://twitter.com/racoonwolf){: .btn .btn--info}
 {: .text-center}
