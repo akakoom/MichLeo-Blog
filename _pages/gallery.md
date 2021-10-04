@@ -124,7 +124,7 @@ gallery-yrac850409:
 
 ---
 
-### Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
+#### Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Ageaus" %}
 
