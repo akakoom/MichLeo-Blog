@@ -1,6 +1,6 @@
 ---
 permalink: /gallery/
-title: "相關作品"
+title: "委託作品"
 gallery-Ageaus:
   - url: /assets/images/commissions/Ageaus/SharkWeek_akakoom-1.jpg
     image_path: /assets/images/commissions/Ageaus/SharkWeek_akakoom-1.jpg
