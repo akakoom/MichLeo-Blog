@@ -1,7 +1,7 @@
 ---
 permalink: /gallery/
 title: "委託作品"
-gallery_Ageaus:
+gallery1:
   - url: /assets/images/commissions/Ageaus/SharkWeek_akakoom-1.jpg
     image_path: /assets/images/commissions/Ageaus/SharkWeek_akakoom-1.jpg
   - url: /assets/images/commissions/Ageaus/SharkWeek_akakoom-2.jpg
@@ -14,22 +14,22 @@ gallery_Ageaus:
     image_path: /assets/images/commissions/Ageaus/mask_akakoom-2.jpg
   - url: /assets/images/commissions/Ageaus/mask_akakoom-3.jpg
     image_path: /assets/images/commissions/Ageaus/mask_akakoom-3.jpg
-gallery_ArkAlpha:
+gallery2:
   - url: /assets/images/commissions/Ageaus/ArkAlpha_akakoom.jpg
     image_path: /assets/images/commissions/Ageaus/ArkAlpha_akakoom.jpg
-gallery_BlackTiger:
+gallery3:
   - url: /assets/images/commissions/Ageaus/BlackTiger_akakoom.png
     image_path: /assets/images/commissions/Ageaus/BlackTiger_akakoom.png
 ---
 
 Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery_Ageaus" %}
+{% include gallery id="gallery1" %}
 
 Artist：[ArkAlpha](https://twitter.com/arkalpha){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery_ArkAlpha" class="full" %}
+{% include gallery id="gallery2" class="full" %}
 
 Artist：[Black Tiger](https://www.furaffinity.net/user/blacktigerr){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery_BlackTiger" class="full" %}
+{% include gallery id="gallery3" class="full" %}
