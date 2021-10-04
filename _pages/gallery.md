@@ -48,6 +48,9 @@ gallery-OKAIO:
     image_path: /assets/images/commissions/OKAIO/BB-3.gif
   - url: /assets/images/commissions/OKAIO/be92d7bf121cccc3.gif
     image_path: /assets/images/commissions/OKAIO/be92d7bf121cccc3.gif
+gallery-Puro:
+  - url: /assets/images/commissions/Puro/kottt.jpg
+    image_path: /assets/images/commissions/Puro/kottt.jpg
 gallery-Racconwolf:
   - url: /assets/images/commissions/Racconwolf/MLeofalls.jpg
     image_path: /assets/images/commissions/Racconwolf/MLeofalls.jpg
@@ -63,6 +66,9 @@ gallery-Rwolf:
     image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
   - url: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
     image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
+gallery-Vorusu:
+  - url: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
+    image_path: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
 gallery-WFA:
   - url: /assets/images/commissions/WFA/2018_michleo_modelsheet.jpg
     image_path: /assets/images/commissions/WFA/2018_michleo_modelsheet.jpg
