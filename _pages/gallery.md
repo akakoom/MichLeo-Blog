@@ -28,8 +28,8 @@ Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
 
 Artist：[ArkAlpha](https://twitter.com/arkalpha){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery2" layout="half" %}
 
 Artist：[Black Tiger](https://www.furaffinity.net/user/blacktigerr){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery3" %}
+{% include gallery id="gallery3" layout="half" %}
