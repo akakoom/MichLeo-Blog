@@ -2,6 +2,7 @@
 permalink: /gallery/
 title: "委託作品"
 toc: true
+toc_label: "作者"
 toc_sticky: true
 gallery-Ageaus:
   - url: /assets/images/commissions/Ageaus/SharkWeek_akakoom-1.jpg
@@ -124,78 +125,78 @@ gallery-yrac850409:
 
 ---
 
-#### Artist：[Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
+#### [Ageaus](https://www.furaffinity.net/user/ageaus/){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Ageaus" %}
 
-Artist：[ArkAlpha](https://twitter.com/arkalpha){: .btn .btn--info}
+#### [ArkAlpha](https://twitter.com/arkalpha){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-ArkAlpha" layout="half" %}
 
-Artist：[Black Tiger](https://www.furaffinity.net/user/blacktigerr){: .btn .btn--info}
+#### [Black Tiger](https://www.furaffinity.net/user/blacktigerr){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-BlackTiger" layout="half" %}
 
-Artist：[羯角](https://www.plurk.com/CornuGoat){: .btn .btn--info}
+#### [羯角](https://www.plurk.com/CornuGoat){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-CornuGoat" layout="half" %}
 
-Artist：[棒凱](https://www.plurk.com/OKAIO){: .btn .btn--info}
+#### [棒凱](https://www.plurk.com/OKAIO){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-OKAIO" %}
 
-Artist：[粽子](https://twitter.com/racoonwolf){: .btn .btn--info}
+#### [粽子](https://twitter.com/racoonwolf){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Racconwolf" layout="half" %}
 
-Artist：[Rhino King](https://www.furaffinity.net/user/rhinoking){: .btn .btn--info}
+#### [Rhino King](https://www.furaffinity.net/user/rhinoking){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-RhinoKing" layout="half" %}
 
-Artist：[Rwolf](https://www.furaffinity.net/user/rwolf){: .btn .btn--info}
+#### [Rwolf](https://www.furaffinity.net/user/rwolf){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Rwolf" layout="half" %}
 
-Artist：[沃](https://twitter.com/VorusuArts2){: .btn .btn--info}
+#### [沃](https://twitter.com/VorusuArts2){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Vorusu" layout="half" %}
 
-Artist：[WFA](https://www.furaffinity.net/user/wfa){: .btn .btn--info}
+#### [WFA](https://www.furaffinity.net/user/wfa){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-WFA" layout="half" %}
 
-Artist：[X-monic](https://twitter.com/MonaDever){: .btn .btn--info}
+#### [X-monic](https://twitter.com/MonaDever){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-X-monic" layout="half" %}
 
-Artist：[班尼迪克蛋](https://twitter.com/Banksy5057){: .btn .btn--info}
+#### [班尼迪克蛋](https://twitter.com/Banksy5057){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-benben_5057" layout="half" %}
 
-Artist：[季之宇_BY](https://twitter.com/bruce892741){: .btn .btn--info}
+#### [季之宇_BY](https://twitter.com/bruce892741){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-bruce892741" layout="half" %}
 
-Artist：[亞灰](https://twitter.com/asiahao520){: .btn .btn--info}
+#### [亞灰](https://twitter.com/asiahao520){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-gumi86128" layout="half" %}
 
-Artist：[伽勒爾牛牛](https://twitter.com/roro860512){: .btn .btn--info}
+#### [伽勒爾牛牛](https://twitter.com/roro860512){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-joanne_0512" layout="half" %}
 
-Artist：[歐塔德](https://www.furaffinity.net/user/feitade1001/){: .btn .btn--info}
+#### [歐塔德](https://www.furaffinity.net/user/feitade1001/){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-otader" %}
 
-Artist：[Anfield](https://twitter.com/petplayer976){: .btn .btn--info}
+#### [Anfield](https://twitter.com/petplayer976){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-petplayer976" layout="half" %}
 
-Artist：[舒跑貓](https://www.plurk.com/supaucat){: .btn .btn--info}
+#### [舒跑貓](https://www.plurk.com/supaucat){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-supaucat" layout="half" %}
 
-Artist：[Yrac 鴉](https://www.plurk.com/yrac850409){: .btn .btn--info}
+#### [Yrac 鴉](https://www.plurk.com/yrac850409){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-yrac850409" layout="half" %}
