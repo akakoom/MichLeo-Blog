@@ -16,7 +16,7 @@ sidebar:
 
 ## 前 言
 小說目錄於左側快速導覽，\
-手機畫面於最上方切換選單中。\
+手機畫面於最上方切換選單中。
 
 這是一部由Diretooth替deltacatalyzer的角色Delta所寫的小說。\
 講述狼人Grimm遇到Delta之後，逐漸找回信心的過程。\
