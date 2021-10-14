@@ -26,6 +26,9 @@ gallery-BlackTiger:
 gallery-CornuGoat:
   - url: /assets/images/commissions/CornuGoat/holloweenwalk.gif
     image_path: /assets/images/commissions/CornuGoat/holloweenwalk.gif
+gallery-DRNX:
+  - url: /assets/images/commissions/DRNX/photo6212972284939972040.jpg
+    image_path: /assets/images/commissions/DRNX/photo6212972284939972040.jpg
 gallery-OKAIO:
   - url: /assets/images/commissions/OKAIO/20190724_2.jpg
     image_path: /assets/images/commissions/OKAIO/20190724_2.jpg
@@ -142,6 +145,10 @@ gallery-yrac850409:
 #### [羯角](https://www.plurk.com/CornuGoat){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-CornuGoat" layout="half" %}
+
+#### [DRNX](https://www.plurk.com/DRNX){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-DRNX" layout="half" %}
 
 #### [棒凱](https://www.plurk.com/OKAIO){: .btn .btn--info}
 {: .text-center}
