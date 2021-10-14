@@ -32,6 +32,18 @@ sidebar:
  - 故事內容包含洗腦、催眠、身體改造、身分轉變、思想變化，以及自慰、性交等成人內容，\
 若無法接受請不要閱讀，在閱讀期間若感到不適請停止觀看。
 
+---
+
+ - [[Part 1] 遇見 Delta](/_posts/Delta/2021-06-16-Delta-part-1.md)
+ - [[Part 2] Delta - 個人化](/_posts/Delta/2021-06-16-Delta-part-2.md)
+ - [[Part 3] Delta - 增長](/_posts/Delta/2021-06-16-Delta-part-3.md)
+ - [[Part 4] Delta - 斷開連線](/_posts/Delta/2021-06-16-Delta-part-4.md)
+ - [[Part 5] Delta - 落差](/_posts/Delta/2021-06-16-Delta-part-5.md)
+ - [[Part 6] Delta - 合成](/_posts/Delta/2021-06-16-Delta-part-6.md)
+ - [[Part 7] Delta - 實驗](/_posts/Delta/2021-06-16-Delta-part-7.md)
+ - [\[Part 8 Fina…… Delta - 墮落與合一](/_posts/Delta/2021-06-16-Delta-part-8.md)
+
+ --- 
 
 ## 授 權
 此作品在經過作者[Diretooth](https://www.furaffinity.net/user/diretooth/)以及角色的創作者[deltacatalyzer](https://twitter.com/deltacatalyzer)同意之後翻譯，發佈。
