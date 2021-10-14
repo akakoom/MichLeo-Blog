@@ -34,14 +34,14 @@ sidebar:
 
 ---
 
- - [[Part 1] 遇見 Delta](/_posts/Delta/2021-06-16-Delta-part-1.md)
- - [[Part 2] Delta - 個人化](/_posts/Delta/2021-06-16-Delta-part-2.md)
- - [[Part 3] Delta - 增長](/_posts/Delta/2021-06-16-Delta-part-3.md)
- - [[Part 4] Delta - 斷開連線](/_posts/Delta/2021-06-16-Delta-part-4.md)
- - [[Part 5] Delta - 落差](/_posts/Delta/2021-06-16-Delta-part-5.md)
- - [[Part 6] Delta - 合成](/_posts/Delta/2021-06-16-Delta-part-6.md)
- - [[Part 7] Delta - 實驗](/_posts/Delta/2021-06-16-Delta-part-7.md)
- - [\[Part 8 Fina…… Delta - 墮落與合一](/_posts/Delta/2021-06-16-Delta-part-8.md)
+ - [[Part 1] 遇見 Delta](/Delta-part-1/)
+ - [[Part 2] Delta - 個人化](/Delta-part-2/)
+ - [[Part 3] Delta - 增長](/Delta-part-3/)
+ - [[Part 4] Delta - 斷開連線](/Delta-part-4/)
+ - [[Part 5] Delta - 落差](/Delta-part-5/)
+ - [[Part 6] Delta - 合成](/Delta-part-6/)
+ - [[Part 7] Delta - 實驗](/Delta-part-7/)
+ - [\[Part 8 Fina…… Delta - 墮落與合一](/Delta-part-8/)
 
  --- 
 
