@@ -43,8 +43,6 @@ sidebar:
  - [[Part 7] Delta - 實驗](/novel/Delta-part-7/)
  - [\[Part 8 Fina…… Delta - 墮落與合一](/novel/Delta-part-8/)
 
- --- 
-
 ## 授 權
 此作品在經過作者[Diretooth](https://www.furaffinity.net/user/diretooth/)以及角色的創作者[deltacatalyzer](https://twitter.com/deltacatalyzer)同意之後翻譯，發佈。
 ![圖片](https://user-images.githubusercontent.com/71741159/122041394-7d795d80-ce0b-11eb-8134-a8dfb1be0353.png)
