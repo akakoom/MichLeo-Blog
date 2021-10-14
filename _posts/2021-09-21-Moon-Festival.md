@@ -8,8 +8,8 @@ tags:
   - TFTusday
   - DRNX
 gallery:
-  - url: /assets/images/photo_2021-09-19_16-43-00.jpg
-    image_path: /assets/images/photo_2021-09-19_16-43-00.jpg
+  - url: /assets/images/commissions/DRNX/photo6212972284939972040.jpg
+    image_path: /assets/images/commissions/DRNX/photo6212972284939972040.jpg
 ---
 
 是黑豹變成鯊魚～還是鯊魚變成黑豹呢！？
