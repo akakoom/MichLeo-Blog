@@ -37,8 +37,6 @@ gallery-HareWolf:
 gallery-OKAIO:
   - url: /assets/images/commissions/OKAIO/20190724_2.jpg
     image_path: /assets/images/commissions/OKAIO/20190724_2.jpg
-  - url: /assets/images/commissions/OKAIO/20190724_2.jpg
-    image_path: /assets/images/commissions/OKAIO/20190724_2.jpg
   - url: /assets/images/commissions/OKAIO/20190724_3.jpg
     image_path: /assets/images/commissions/OKAIO/20190724_3.jpg
   - url: /assets/images/commissions/OKAIO/20191016_2.jpg
