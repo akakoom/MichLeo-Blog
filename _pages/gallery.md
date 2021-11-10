@@ -29,6 +29,11 @@ gallery-CornuGoat:
 gallery-DRNX:
   - url: /assets/images/commissions/DRNX/photo6212972284939972040.jpg
     image_path: /assets/images/commissions/DRNX/photo6212972284939972040.jpg
+gallery-HareWolf:
+  - url: /assets/images/commissions/HareWolf/michleo_sig.png
+    image_path: /assets/images/commissions/HareWolf/michleo_sig.png
+  - url: /assets/images/commissions/HareWolf/michleob_sig.png
+    image_path: /assets/images/commissions/HareWolf/michleob_sig.png
 gallery-OKAIO:
   - url: /assets/images/commissions/OKAIO/20190724_2.jpg
     image_path: /assets/images/commissions/OKAIO/20190724_2.jpg
@@ -84,6 +89,8 @@ gallery-X-monic:
 gallery-benben_5057:
   - url: /assets/images/commissions/benben_5057/萬聖節委託_坧稫β(小).jpg
     image_path: /assets/images/commissions/benben_5057/萬聖節委託_坧稫β(小).jpg
+  - url: /assets/images/commissions/benben_5057/危域謎航_坧稫 β(小).jpg
+    image_path: /assets/images/commissions/benben_5057/危域謎航_坧稫 β(小).jpg
 gallery-bruce892741:
   - url: /assets/images/commissions/bruce892741/growth-with-Vincent-wip.jpeg
     image_path: /assets/images/commissions/bruce892741/growth-with-Vincent-wip.jpeg
@@ -149,6 +156,10 @@ gallery-yrac850409:
 #### [DRNX](https://www.plurk.com/DRNX){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-DRNX" layout="half" %}
+
+#### [HareWolf](https://twitter.com/HareWolf126){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-HareWolf" layout="half" %}
 
 #### [棒凱](https://www.plurk.com/OKAIO){: .btn .btn--info}
 {: .text-center}
