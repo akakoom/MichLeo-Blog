@@ -74,7 +74,7 @@ gallery-Rwolf:
   - url: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
     image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
   - url: /assets/images/commissions/Rwolf/Mleo_c_2.jpg
-    image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
+    image_path: /assets/images/commissions/Rwolf/Mleo_c_2.jpg
 gallery-Vorusu:
   - url: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
     image_path: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
