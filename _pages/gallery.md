@@ -165,6 +165,10 @@ gallery-yrac850409:
 {: .text-center}
 {% include gallery id="gallery-OKAIO" %}
 
+#### [Puro](https://twitter.com/NSFWKeKPuro){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-Puro" %}
+
 #### [粽子](https://twitter.com/racoonwolf){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Racconwolf" layout="half" %}
