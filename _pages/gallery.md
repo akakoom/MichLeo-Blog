@@ -126,6 +126,9 @@ gallery-petplayer976:
     image_path: /assets/images/commissions/petplayer976/hat_akakoom.png
   - url: /assets/images/commissions/petplayer976/headshotTF_akakoom.png
     image_path: /assets/images/commissions/petplayer976/headshotTF_akakoom.png
+gallery-redden★:
+  - url: /assets/images/commissions/redden★/1130-2-all-s.jpg
+    image_path: /assets/images/commissions/redden★/1130-2-all-s.jpg
 gallery-supaucat:
   - url: /assets/images/commissions/supaucat/13280509329913.jpg
     image_path: /assets/images/commissions/supaucat/13280509329913.jpg
@@ -216,6 +219,10 @@ gallery-yrac850409:
 #### [Anfield](https://twitter.com/petplayer976){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-petplayer976" layout="half" %}
+
+#### [redden★](https://www.plurk.com/redden){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-redden★" layout="half" %}
 
 #### [舒跑貓](https://www.plurk.com/supaucat){: .btn .btn--info}
 {: .text-center}
