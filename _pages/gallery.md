@@ -70,22 +70,22 @@ gallery-RhinoKing:
     image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
   - url: /assets/images/commissions/RhinoKing/MichLeo-ref-3.jpg
     image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-3.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 1.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 1.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 2.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 2.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 3.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 3.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 4.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 4.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 5.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 5.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 6.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 6.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 7.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 7.jpg
-  - url: /assets/images/commissions/RhinoKing/commission michleo cannon 8.jpg
-    image_path: /assets/images/commissions/RhinoKing/commission michleo cannon 8.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-1.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-1.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-2.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-2.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-3.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-3.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-4.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-4.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-5.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-5.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-6.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-6.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-7.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-7.jpg
+  - url: /assets/images/commissions/RhinoKing/cannon-8.jpg
+    image_path: /assets/images/commissions/RhinoKing/cannon-8.jpg
 gallery-Rwolf:
   - url: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
     image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
