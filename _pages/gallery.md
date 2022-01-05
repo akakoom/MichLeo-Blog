@@ -198,7 +198,7 @@ gallery-yrac850409:
 
 #### [Rwolf](https://www.furaffinity.net/user/rwolf){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery-Rwolf" layout="half" %}
+{% include gallery id="gallery-Rwolf" %}
 
 #### [沃](https://twitter.com/VorusuArts2){: .btn .btn--info}
 {: .text-center}
