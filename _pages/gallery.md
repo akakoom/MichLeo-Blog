@@ -34,6 +34,11 @@ gallery-HareWolf:
     image_path: /assets/images/commissions/HareWolf/michleo_sig.png
   - url: /assets/images/commissions/HareWolf/michleob_sig.png
     image_path: /assets/images/commissions/HareWolf/michleob_sig.png
+gallery-Mie_ayam:
+  - url: /assets/images/commissions/Mie_ayam/FHw8Jc2VEAMKutc.jpg
+    image_path: /assets/images/commissions/Mie_ayam/FHw8Jc2VEAMKutc.jpg
+  - url: /assets/images/commissions/Mie_ayam/FHw8Jc4UYAcAZIv.jpg
+    image_path: /assets/images/commissions/Mie_ayam/FHw8Jc4UYAcAZIv.jpg
 gallery-OKAIO:
   - url: /assets/images/commissions/OKAIO/20190724_2.jpg
     image_path: /assets/images/commissions/OKAIO/20190724_2.jpg
@@ -102,6 +107,9 @@ gallery-WFA:
 gallery-X-monic:
   - url: /assets/images/commissions/X-monic/akakoom_20191103131735.png
     image_path: /assets/images/commissions/X-monic/akakoom_20191103131735.png
+gallery-Zero_dragon:
+  - url: /assets/images/commissions/Zero_dragon/FFAYPc3XMAMbP-G.jpg
+    image_path: /assets/images/commissions/Zero_dragon/FFAYPc3XMAMbP-G.jpg
 gallery-benben_5057:
   - url: /assets/images/commissions/benben_5057/萬聖節委託_坧稫β(小).jpg
     image_path: /assets/images/commissions/benben_5057/萬聖節委託_坧稫β(小).jpg
@@ -180,6 +188,10 @@ gallery-yrac850409:
 {: .text-center}
 {% include gallery id="gallery-HareWolf" layout="half" %}
 
+#### [Mie ayam](https://twitter.com/akumi456){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-Mie_ayam" layout="half" %}
+
 #### [棒凱](https://www.plurk.com/OKAIO){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-OKAIO" %}
@@ -211,6 +223,10 @@ gallery-yrac850409:
 #### [X-monic](https://twitter.com/MonaDever){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-X-monic" layout="half" %}
+
+#### [Zero dragon](https://twitter.com/Waterdragogt){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-Zero_dragon" layout="half" %}
 
 #### [班尼迪克蛋](https://twitter.com/Banksy5057){: .btn .btn--info}
 {: .text-center}
