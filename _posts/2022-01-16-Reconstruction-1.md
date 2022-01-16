@@ -1,5 +1,5 @@
 ---
-title: "[Part 1] 重構-機械之心"
+title: "[Part 1] 重生 - 機械之心"
 categories:
   - novel
 tags:
