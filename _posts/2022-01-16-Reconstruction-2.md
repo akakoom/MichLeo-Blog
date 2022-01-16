@@ -1,5 +1,5 @@
 ---
-title: "[Part 2] 修復-世界之魂"
+title: "[Part 2] 重構-世界之魂"
 categories:
   - novel
 tags:
