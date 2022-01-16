@@ -9,7 +9,9 @@ tags:
 
 ---
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<span style="color:orange">
+  some *blue* text
+</span>.
 
 　　光線穿過寂靜房間，進乎靜止的光束中，淡淡的蒼白微粒慵懶地舞動，在機器上印出它冰冷的路徑。伺服器和終端機上的燈號閃爍，它們的過濾器被遺骸所堵塞，那些很久、很久以前，在這裡工作人們的遺骸。
   
