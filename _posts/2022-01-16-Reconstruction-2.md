@@ -586,6 +586,9 @@ tags:
 　　Delta似乎笑了笑，他們離開了房間，輕輕關上門。在黑暗中，我看到我的機械獨眼在到影中發光，閉上眼睛，讓自己期許一個更棒，更美好的未來……
     
   ---
+  
+  [Part 1](https://blog.akakoom.com/novel/Reconstruction-1/){: .btn .btn--info}
+{: .text-right}
 
 　　這是篇文章是購買的委託，由我提供大綱請Diretooth將它完成，然後再翻回中文。\
 　　作者：[Diretooth](https://www.furaffinity.net/view/45453630/)\
