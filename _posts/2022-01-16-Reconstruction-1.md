@@ -340,8 +340,8 @@ tags:
 
 - 這是篇文章是購買的委託。
 - 由我提供大綱請Diretooth將它完成，然後再翻回中文。
-　　- 作者：[Diretooth](https://www.furaffinity.net/view/45453630/)
+    - 作者：[Diretooth](https://www.furaffinity.net/view/45453630/)
 - 參與演出
-　　- MichLeo：[MichLeo](https://blog.akakoom.com/)
-　　- Delta：[deltacatalyzer](https://twitter.com/deltacatalyzer)
-　　- Grimm：[Grimm](https://www.furaffinity.net/view/37433439/)
+    - MichLeo：[MichLeo](https://blog.akakoom.com/)
+    - Delta：[deltacatalyzer](https://twitter.com/deltacatalyzer)
+    - Grimm：[Grimm](https://www.furaffinity.net/view/37433439/)
