@@ -343,5 +343,5 @@ tags:
 　　- 作者：[Diretooth](https://www.furaffinity.net/view/45453630/)
 - 參與演出
 　　- MichLeo：[MichLeo](https://blog.akakoom.com/)
-　　- - Delta：[deltacatalyzer](https://twitter.com/deltacatalyzer)
-　　- - Grimm：[Grimm](https://www.furaffinity.net/view/37433439/)
+　　- Delta：[deltacatalyzer](https://twitter.com/deltacatalyzer)
+　　- Grimm：[Grimm](https://www.furaffinity.net/view/37433439/)
