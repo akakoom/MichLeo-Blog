@@ -334,6 +334,9 @@ tags:
 　　我們走出了基地的大門，我可以感受到趾間的青草，柔和的微風撫過我的毛皮，再往前走，我可以聞到建築群周圍森林的氣味……
   
   ---
+  
+  [Part 2](https://blog.akakoom.com/novel/Reconstruction-2/){: .btn .btn--info}
+{: .text-right}
 
 　　這是篇文章是購買的委託，由我提供大綱請Diretooth將它完成，然後再翻回中文。\
 　　作者：[Diretooth](https://www.furaffinity.net/view/45453630/)\
