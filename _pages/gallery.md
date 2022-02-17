@@ -92,12 +92,16 @@ gallery-RhinoKing:
   - url: /assets/images/commissions/RhinoKing/cannon-8.jpg
     image_path: /assets/images/commissions/RhinoKing/cannon-8.jpg
 gallery-Rwolf:
-  - url: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
-    image_path: /assets/images/commissions/Rwolf/Mleo_c_1.jpg
-  - url: /assets/images/commissions/Rwolf/Mleo_c_2.jpg
-    image_path: /assets/images/commissions/Rwolf/Mleo_c_2.jpg
-  - url: /assets/images/commissions/Rwolf/Mleo_cA.jpg
-    image_path: /assets/images/commissions/Rwolf/Mleo_cA.jpg
+  - url: /assets/images/commissions/Rwolf/MLeo_c1.jpg
+    image_path: /assets/images/commissionsRwolf/MLeo_c1.jpg
+  - url: /assets/images/commissionsRwolf/MLeo_c2.jpg
+    image_path: /assets/images/commissionsRwolf/MLeo_c2.jpg
+  - url: /assets/images/commissionsRwolf/MLeo_c3.jpg
+    image_path: /assets/images/commissionsRwolf/MLeo_c3.jpg
+  - url: /assets/images/commissionsRwolf/MLeo_TigerY1.jpg
+    image_path: /assets/images/commissionsRwolf/MLeo_TigerY1.jpg
+  - url: /assets/images/commissionsRwolf/MLeo_TigerY2.jpg
+    image_path: /assets/images/commissionsRwolf/MLeo_TigerY2.jpg
 gallery-Vorusu:
   - url: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
     image_path: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
