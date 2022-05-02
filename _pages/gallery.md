@@ -70,6 +70,15 @@ gallery-Racconwolf:
     image_path: /assets/images/commissions/Racconwolf/MLeofalls.jpg
   - url: /assets/images/commissions/Racconwolf/crawlouts.png
     image_path: /assets/images/commissions/Racconwolf/crawlouts.png
+gallery-Racconwolf2:
+  - url: /assets/images/commissions/Racconwolf/s_MichleomeetDelta0.png
+    image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta0.png
+  - url: /assets/images/commissions/Racconwolf/s_MichleomeetDelta33.png
+    image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta33.png
+  - url: /assets/images/commissions/Racconwolf/s_MichleomeetDelta66.png
+    image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta66.png
+  - url: /assets/images/commissions/Racconwolf/s_MichleomeetDelta100.png
+    image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta100.png
 gallery-RhinoKing:
   - url: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
     image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
@@ -111,6 +120,19 @@ gallery-WFA:
 gallery-X-monic:
   - url: /assets/images/commissions/X-monic/akakoom_20191103131735.png
     image_path: /assets/images/commissions/X-monic/akakoom_20191103131735.png
+gallery-X-monic2:
+  - url: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142242.png
+    image_path: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142242.png
+  - url: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142317.png
+    image_path: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142317.png
+  - url: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142339.png
+    image_path: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142339.png
+  - url: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142242.png
+    image_path: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142242.png
+  - url: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142353.png
+    image_path: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142353.png
+  - url: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142408.png
+    image_path: /assets/images/commissions/X-monic/ไม่มีชื่อ 179_20220501142408.png
 gallery-Zero_dragon:
   - url: /assets/images/commissions/Zero_dragon/FFAYPc3XMAMbP-G.jpg
     image_path: /assets/images/commissions/Zero_dragon/FFAYPc3XMAMbP-G.jpg
@@ -207,6 +229,7 @@ gallery-yrac850409:
 #### [粽子](https://twitter.com/racoonwolf){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Racconwolf" layout="half" %}
+{% include gallery id="gallery-Racconwolf2" %}
 
 #### [Rhino King](https://www.furaffinity.net/user/rhinoking){: .btn .btn--info}
 {: .text-center}
@@ -227,6 +250,7 @@ gallery-yrac850409:
 #### [X-monic](https://twitter.com/MonaDever){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-X-monic" layout="half" %}
+{% include gallery id="gallery-X-monic2" %}
 
 #### [Zero dragon](https://twitter.com/Waterdragogt){: .btn .btn--info}
 {: .text-center}
