@@ -101,16 +101,16 @@ gallery-RhinoKing:
   - url: /assets/images/commissions/RhinoKing/cannon-8.jpg
     image_path: /assets/images/commissions/RhinoKing/cannon-8.jpg
 gallery-Rwolf:
-  - url: /assets/images/commissions/Rwolf/MLeo_c1.jpg
-    image_path: /assets/images/commissionsRwolf/MLeo_c1.jpg
-  - url: /assets/images/commissionsRwolf/MLeo_c2.jpg
-    image_path: /assets/images/commissionsRwolf/MLeo_c2.jpg
-  - url: /assets/images/commissionsRwolf/MLeo_c3.jpg
-    image_path: /assets/images/commissionsRwolf/MLeo_c3.jpg
-  - url: /assets/images/commissionsRwolf/MLeo_TigerY1.jpg
-    image_path: /assets/images/commissionsRwolf/MLeo_TigerY1.jpg
-  - url: /assets/images/commissionsRwolf/MLeo_TigerY2.jpg
-    image_path: /assets/images/commissionsRwolf/MLeo_TigerY2.jpg
+  - url: /assets/images/commissions/Rwolf/Mleo_a.jpg
+    image_path: /assets/images/commissions/Rwolf/Mleo_a.jpg
+  - url: /assets/images/commissions/Rwolf/Mleo_b.jpg
+    image_path: /assets/images/commissions/Rwolf/Mleo_b.jpg
+  - url: /assets/images/commissions/Rwolf/Mleo_c.jpg
+    image_path: /assets/images/commissions/Rwolf/Mleo_c.jpg
+  - url: /assets/images/commissions/Rwolf/YearTiger1.jpg
+    image_path: /assets/images/commissions/Rwolf/YearTiger1.jpg
+  - url: /assets/images/commissions/Rwolf/YearTiger2.jpg
+    image_path: /assets/images/commissions/Rwolf/YearTiger2.jpg
 gallery-Vorusu:
   - url: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
     image_path: /assets/images/commissions/Vorusu/57GNQym0032EjXJAAm09ZP.jpg
