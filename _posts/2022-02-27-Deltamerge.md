@@ -19,7 +19,7 @@ gallery4:
     image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta100.png
 ---
 
-當我們在賽博空間相遇時讓我訝異的是……
+當我們在賽博空間相遇時讓我訝異的是……\
 另一具前所未聞，與我的設計完全不相同的奈米聚合生物，
 在理解到彼此沒有惡意之後，我們開始進一步的交流。\
 What surprised me when we met in Cyberspace was ......
