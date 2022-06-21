@@ -1,6 +1,5 @@
 ---
 title: "Delta馬殺雞"
-comments: true
 categories:
   - Blog
 tags:
