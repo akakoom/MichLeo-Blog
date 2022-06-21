@@ -130,3 +130,9 @@ analytics:
   google:
     tracking_id          : "UA-207651229-1"
     anonymize_ip         : false # true, false (default)
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "akakoom"
+
