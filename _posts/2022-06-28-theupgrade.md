@@ -17,8 +17,8 @@ author_profile: false
 在閱讀期間若感到不適請停止觀看。
 
 ---
-### The Upgrade {: .text-center}
-#### By AdPlok {: .text-center}
+## The Upgrade{: .text-center}
+By AdPlok{: .text-center}
 
 
 彼得焦躁地等待，不耐煩的哈士奇在門口不斷來回踱步，幾乎在他公寓的地板上磨出一個洞。
