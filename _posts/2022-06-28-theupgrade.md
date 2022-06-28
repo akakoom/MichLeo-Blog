@@ -388,7 +388,7 @@ author_profile: false
 
 **<span style="color:#00b050">服從！</span>**
 
-　　SPDRMN不是為了自己思考。
+　　SPDRMN不是為了自己思考。\
 　　SPDRMN是為了服從。
 
 **<span style="color:#00b050">服從！</span>**
