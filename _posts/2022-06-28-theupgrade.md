@@ -9,7 +9,7 @@ hidden: true
 author_profile: false
 ---
 作者：[AdPlok](https://www.furaffinity.net/user/adplok)\
-翻譯：MichLeo\
+翻譯：MichLeo
 
 該作品在作者同意後翻譯。
 ![圖片](https://user-images.githubusercontent.com/71741159/176186570-82465814-8df0-4403-b32b-1d7f93b3e4d1.png)
