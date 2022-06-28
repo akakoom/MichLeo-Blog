@@ -20,12 +20,18 @@ author_profile: false
 ## The Upgrade
 {: .text-center}
 
-<span style="color:orange">TEXT</span>
-<span style="color:00b050">TEXT</span>
-<span style="color:#00b050">TEXT</span>
-TEXT<span style="color:orange">TEXT</span>TEXT
-TEXT<span style="color:00b050">TEXT</span>TEXT
-TEXT<span style="color:#00b050">TEXT</span>TEXT
+<span style="color:orange">TEXT</span>\
+<span style="color:00b050">TEXT</span>\
+<span style="color:#00b050">TEXT</span>\
+TEXT<span style="color:orange">TEXT</span>TEXT\
+TEXT<span style="color:00b050">TEXT</span>TEXT\
+TEXT<span style="color:#00b050">TEXT</span>TEXT\
+<span style="color:orange">中文</span>\
+<span style="color:00b050">中文</span>\
+<span style="color:#00b050">中文</span>\
+中文<span style="color:orange">中文</span>中文\
+中文<span style="color:00b050">中文</span>中文\
+中文<span style="color:#00b050">中文</span>中文
 
 
 
