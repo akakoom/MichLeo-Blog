@@ -13,7 +13,7 @@ author_profile: false
 
 對這類型題材有點欲罷不能，在朋友的慫恿之下翻了。=▽=\
 該作品在作者同意後翻譯。
-![圖片](https://user-images.githubusercontent.com/71741159/176186570-82465814-8df0-4403-b32b-1d7f93b3e4d1.png){: .align-right}
+![圖片](https://user-images.githubusercontent.com/71741159/176186570-82465814-8df0-4403-b32b-1d7f93b3e4d1.png)
 
 此翻譯僅供閱覽，所有權歸作者[AdPlok](https://www.furaffinity.net/user/adplok)所有。\
 故事內容包含蜘蛛人、洗腦、催眠、身體改造、肌肉增長、身分轉變、思想變化，\
