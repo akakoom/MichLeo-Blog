@@ -11,10 +11,11 @@ author_profile: false
 作者：[Mythical Mistress](https://www.furaffinity.net/user/mythicalmistress/)\
 翻譯：MichLeo
 
+經過The Upgrade的啟發，Mythical Mistress與AdPlok協力寫出了很棒的續篇。
 該作品在作者同意後翻譯。
 ![圖片](https://user-images.githubusercontent.com/71741159/177280944-047f4dcc-ffbc-496f-a081-761c87370237.png)
 
-此翻譯僅供閱覽，所有權歸作者所有。\
+此翻譯僅供閱覽，所有權歸作者[Mythical Mistress](https://www.furaffinity.net/user/mythicalmistress/)所有。\
 故事內容包含Marvel英雄、非自願、洗腦、催眠、極端身體改造、肌肉增長、身分轉變、思想變化，\
 以及自慰等成人內容，若無法接受請不要閱讀，\
 在閱讀期間若感到不適請停止觀看。
