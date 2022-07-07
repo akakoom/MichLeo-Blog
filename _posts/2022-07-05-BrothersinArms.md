@@ -11,7 +11,7 @@ author_profile: false
 作者：[Mythical Mistress](https://www.furaffinity.net/user/mythicalmistress/)\
 翻譯：MichLeo
 
-經過The Upgrade的啟發，Mythical Mistress與AdPlok協力寫出了很棒的續篇。
+經過The Upgrade的啟發，Mythical Mistress與AdPlok協力寫出了很棒的續篇。\
 該作品在作者同意後翻譯。
 ![圖片](https://user-images.githubusercontent.com/71741159/177280944-047f4dcc-ffbc-496f-a081-761c87370237.png)
 
