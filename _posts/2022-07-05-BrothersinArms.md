@@ -5,8 +5,6 @@ categories:
 tags:
   - 小說
   - 翻譯
-hidden: true
-author_profile: false
 ---
 作者：[Mythical Mistress](https://www.furaffinity.net/user/mythicalmistress/)\
 翻譯：MichLeo
