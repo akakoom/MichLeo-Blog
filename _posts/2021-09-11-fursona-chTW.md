@@ -18,6 +18,16 @@ gallery3:
 gallery4:
   - url: /assets/images/2021-Michleo-ref-04.jpg
     image_path: /assets/images/2021-Michleo-ref-04.jpg
+gallery5:
+  - url: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
+    image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
+  - url: /assets/images/commissions/RhinoKing/MichLeo-ref-2.jpg
+    image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-2.jpg
+  - url: /assets/images/commissions/RhinoKing/MichLeo-ref-3.jpg
+    image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-3.jpg    
+gallery6:
+  - url: /assets/images/commissions/otader/MichLeo-ref.png
+    image_path: /assets/images/commissions/otader/MichLeo-ref.png
 ---
 
 ## 獸 設
@@ -50,3 +60,13 @@ Artist：[Racconwolf](https://twitter.com/racoonwolf){: .btn .btn--info}
 相對於解除壓縮的交體形態，奈米機械更加凝結成結構化的肌肉束與金屬骨骼，以降低對物質反應的效率來提高整體機動性，最大的作用應該是讓交戰時的畫面比較像科幻片，而不是一坨會分解人的黑色物質恐怖片。
 {: .text-center}
 {% include gallery id="gallery4" %}
+
+---
+
+#### 起步設定
+
+Nanomachine by Rhino King
+{% include gallery id="gallery5" %}
+
+The earliest character finalization by Otader
+{% include gallery id="gallery6" %}
