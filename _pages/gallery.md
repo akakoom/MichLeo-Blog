@@ -79,6 +79,15 @@ gallery-Racconwolf2:
     image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta66.png
   - url: /assets/images/commissions/Racconwolf/s_MichleomeetDelta100.png
     image_path: /assets/images/commissions/Racconwolf/s_MichleomeetDelta100.png
+gallery-Racconwolf3:
+  - url: /assets/images/commissions/Racconwolf/s Goo Bike 0.png
+    image_path: /assets/images/commissions/Racconwolf/s Goo Bike 0.png
+  - url: /assets/images/commissions/Racconwolf/s Goo Bike 1.png
+    image_path: /assets/images/commissions/Racconwolf/s Goo Bike 1.png
+  - url: /assets/images/commissions/Racconwolf/s Goo Bike 2.png
+    image_path: /assets/images/commissions/Racconwolf/s Goo Bike 2.png
+  - url: /assets/images/commissions/Racconwolf/s Goo Bike 3.png
+    image_path: /assets/images/commissions/Racconwolf/s Goo Bike 3.png
 gallery-RhinoKing:
   - url: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
     image_path: /assets/images/commissions/RhinoKing/MichLeo-ref-1.jpg
@@ -232,7 +241,8 @@ gallery-yrac850409:
 #### [粽子](https://twitter.com/racoonwolf){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-Racconwolf" layout="half" %}
-{% include gallery id="gallery-Racconwolf2" %}
+{% include gallery id="gallery-Racconwolf2" layout="half" %}
+{% include gallery id="gallery-Racconwolf3" layout="half" %}
 
 #### [Rhino King](https://www.furaffinity.net/user/rhinoking){: .btn .btn--info}
 {: .text-center}
