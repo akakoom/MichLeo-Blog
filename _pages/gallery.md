@@ -34,6 +34,13 @@ gallery-HareWolf:
     image_path: /assets/images/commissions/HareWolf/michleo_sig.png
   - url: /assets/images/commissions/HareWolf/michleob_sig.png
     image_path: /assets/images/commissions/HareWolf/michleob_sig.png
+gallery-Lokabrenna:
+  - url: /assets/images/commissions/Lokabrenna/Funnelinthespace1.jpg
+    image_path: /assets/images/commissions/Lokabrenna/Funnelinthespace1.jpg
+  - url: /assets/images/commissions/Lokabrenna/Funnelinthespace2.jpg
+    image_path: /assets/images/commissions/Lokabrenna/Funnelinthespace2.jpg
+  - url: /assets/images/commissions/Lokabrenna/Funnelinthespace3.jpg
+    image_path: /assets/images/commissions/Lokabrenna/Funnelinthespace3.jpg    
 gallery-Mie_ayam:
   - url: /assets/images/commissions/Mie_ayam/FHw8Jc2VEAMKutc.jpg
     image_path: /assets/images/commissions/Mie_ayam/FHw8Jc2VEAMKutc.jpg
@@ -225,6 +232,10 @@ gallery-yrac850409:
 #### [HareWolf](https://twitter.com/HareWolf126){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-HareWolf" layout="half" %}
+
+#### [天狼Lokabrenna](https://twitter.com/cat0989986996){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-Lokabrenna" %}
 
 #### [Mie ayam](https://twitter.com/akumi456){: .btn .btn--info}
 {: .text-center}
