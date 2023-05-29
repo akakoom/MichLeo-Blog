@@ -235,7 +235,7 @@ gallery-yrac850409:
 
 #### [天狼Lokabrenna](https://twitter.com/cat0989986996){: .btn .btn--info}
 {: .text-center}
-{% include gallery id="gallery-Lokabrenna" %}
+{% include gallery id="gallery-Lokabrenna" layout="half" %}
 
 #### [Mie ayam](https://twitter.com/akumi456){: .btn .btn--info}
 {: .text-center}
