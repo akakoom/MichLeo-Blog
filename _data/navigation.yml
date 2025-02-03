@@ -33,6 +33,19 @@ sidebar-Delta-menu:
       - title: "[Part 8 Fina…… Delta - 墮落與合一"
         url: /novel/Delta-part-8/
 
+
+sidebar-Noname-menu:
+  - title: "快速導覽"
+    children:
+      - title: "序1"
+        url: /novel/Prologue1/
+      - title: "序2"
+        url: /novel/Prologue2/
+      - title: "序3"
+        url: /novel/Prologue3/
+
+
+
   - title: "作者連結"
     children:
       - title: "Matrix №Δ"
