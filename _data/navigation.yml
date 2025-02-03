@@ -33,6 +33,13 @@ sidebar-Delta-menu:
       - title: "[Part 8 Fina…… Delta - 墮落與合一"
         url: /novel/Delta-part-8/
 
+  - title: "作者連結"
+    children:
+      - title: "Matrix №Δ"
+        url: https://twitter.com/deltacatalyzer
+      - title: "Diretooth"
+        url: https://www.furaffinity.net/user/diretooth/
+
 
 sidebar-Noname-menu:
   - title: "快速導覽"
@@ -43,14 +50,5 @@ sidebar-Noname-menu:
         url: /novel/Prologue2/
       - title: "序3"
         url: /novel/Prologue3/
-
-
-
-  - title: "作者連結"
-    children:
-      - title: "Matrix №Δ"
-        url: https://twitter.com/deltacatalyzer
-      - title: "Diretooth"
-        url: https://www.furaffinity.net/user/diretooth/
 
        
