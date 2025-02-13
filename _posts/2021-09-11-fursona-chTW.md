@@ -28,6 +28,9 @@ gallery5:
 gallery6:
   - url: /assets/images/commissions/otader/MichLeo-ref.png
     image_path: /assets/images/commissions/otader/MichLeo-ref.png
+gallery7:
+  - url: /assets/images/commissions/WFA/2018_michleo_modelsheet.jpg
+    image_path: /assets/images/commissions/WFA/2018_michleo_modelsheet.jpg
 ---
 
 ## 獸 設
@@ -63,10 +66,13 @@ Artist：[Racconwolf](https://twitter.com/racoonwolf){: .btn .btn--info}
 
 ---
 
-#### 起步設定
+#### 初步設定
 
 Nanomachine by Rhino King
 {% include gallery id="gallery5" %}
 
 The earliest character finalization by Otader
 {% include gallery id="gallery6" %}
+
+Original by WFA
+{% include gallery id="gallery7" %}
