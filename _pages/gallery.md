@@ -168,6 +168,9 @@ gallery-bruce892741:
 gallery-gumi86128:
   - url: /assets/images/commissions/gumi86128/TF_akakoom.jpg
     image_path: /assets/images/commissions/gumi86128/TF_akakoom.jpg
+gallery-icat:
+  - url: /assets/images/commissions/icat/20250228隻逼鯊魚.png
+    image_path: /assets/images/commissions/icat/20250228隻逼鯊魚.png
 gallery-joanne_0512:
   - url: /assets/images/commissions/joanne_0512/VI3XZVH.png
     image_path: /assets/images/commissions/joanne_0512/VI3XZVH.png
@@ -295,6 +298,10 @@ gallery-yrac850409:
 #### [亞灰](https://twitter.com/asiahao520){: .btn .btn--info}
 {: .text-center}
 {% include gallery id="gallery-gumi86128" layout="half" %}
+
+#### [i貓](https://x.com/gcobm07247){: .btn .btn--info}
+{: .text-center}
+{% include gallery id="gallery-icat" layout="half" %}
 
 #### [伽勒爾牛牛](https://twitter.com/roro860512){: .btn .btn--info}
 {: .text-center}
