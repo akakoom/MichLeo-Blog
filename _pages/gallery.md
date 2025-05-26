@@ -171,6 +171,8 @@ gallery-gumi86128:
 gallery-icat:
   - url: /assets/images/commissions/icat/20250228隻逼鯊魚.png
     image_path: /assets/images/commissions/icat/20250228隻逼鯊魚.png
+  - url: /assets/images/commissions/icat/202505225.png
+    image_path: /assets/images/commissions/icat/202505225.png
 gallery-joanne_0512:
   - url: /assets/images/commissions/joanne_0512/VI3XZVH.png
     image_path: /assets/images/commissions/joanne_0512/VI3XZVH.png
